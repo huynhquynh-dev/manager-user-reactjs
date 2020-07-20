@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Huỳnh Quỳnh",
+        "phone": "0912345678",
+        "permission": "Admin"
+    },
+    {
+        "id": "2",
+        "name": "Huỳnh Thanh",
+        "phone": "0912435478",
+        "permission": "Moderator"
+    },
+    {
+        "id": "3",
+        "name": "Huỳnh Tấn",
+        "phone": "0915856764",
+        "permission": "Moderator"
+    },
+    {
+        "id": "4",
+        "name": "Huỳnh Tài",
+        "phone": "0912234562",
+        "permission": "User"
+    },
+    {
+        "id": "5",
+        "name": "Huỳnh Hương",
+        "phone": "0123445553",
+        "permission": "User"
+    }
+]
